@@ -1,5 +1,16 @@
-# Calculadora 🔢
+# Calculator 🔢
 
-Esta calculadora fue realizada utilizando HTML5,CSS3 y JavaScript
+Calculator
+Functions
 
-![Captura](https://user-images.githubusercontent.com/86639208/154309435-dbdff2b2-be85-426b-b0af-ad48c850b3f2.JPG)
+Perform operations such as addition, subtraction, multiplication and division.
+
+Developed with
+
+- HTML
+- CSS
+- JavaScript
+
+Styles
+
+- CSS3
